@@ -1,0 +1,26 @@
+<annotation>
+	<folder>prepared_photos</folder>
+	<filename>photo24.jpg</filename>
+	<path>C:\Users\PC\Politechnika Wrocławska\Inżynieria systemów\Semestr 5\Przetwarzanie obrazów i widzenie komputerowe\Laboratorium\koci_projekt\prepared_photos\photo24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>awake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>47</ymin>
+			<xmax>112</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>
